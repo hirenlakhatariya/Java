@@ -30,7 +30,7 @@ class Student_Details
 	}
 }
 
-class Lab92
+class Lab_9_2
 {
 	static int i=0;
 	public static void main(String[] args)
