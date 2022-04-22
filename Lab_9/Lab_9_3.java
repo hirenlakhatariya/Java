@@ -5,7 +5,7 @@ class StaticDemo
 		i++;
 	}
 }
-class Lab93
+class Lab_9_3
 {
 	public static void main(String[] args)
 	{
